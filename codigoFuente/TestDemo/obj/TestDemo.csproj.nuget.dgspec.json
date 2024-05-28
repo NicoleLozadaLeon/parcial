@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lozad\\OneDrive\\Escritorio\\Prueba\\TestDemo\\TestDemo.csproj": {}
+    "c:\\Users\\lozad\\OneDrive\\Escritorio\\Final\\parcial\\codigoFuente\\TestDemo\\TestDemo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lozad\\OneDrive\\Escritorio\\Prueba\\TestDemo\\TestDemo.csproj": {
+    "c:\\Users\\lozad\\OneDrive\\Escritorio\\Final\\parcial\\codigoFuente\\TestDemo\\TestDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lozad\\OneDrive\\Escritorio\\Prueba\\TestDemo\\TestDemo.csproj",
+        "projectUniqueName": "c:\\Users\\lozad\\OneDrive\\Escritorio\\Final\\parcial\\codigoFuente\\TestDemo\\TestDemo.csproj",
         "projectName": "TestDemo",
-        "projectPath": "C:\\Users\\lozad\\OneDrive\\Escritorio\\Prueba\\TestDemo\\TestDemo.csproj",
+        "projectPath": "c:\\Users\\lozad\\OneDrive\\Escritorio\\Final\\parcial\\codigoFuente\\TestDemo\\TestDemo.csproj",
         "packagesPath": "C:\\Users\\lozad\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lozad\\OneDrive\\Escritorio\\Prueba\\TestDemo\\obj\\",
+        "outputPath": "c:\\Users\\lozad\\OneDrive\\Escritorio\\Final\\parcial\\codigoFuente\\TestDemo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lozad\\AppData\\Roaming\\NuGet\\NuGet.Config"

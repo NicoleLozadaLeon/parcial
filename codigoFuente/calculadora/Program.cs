@@ -2,6 +2,7 @@
 using TestDemo;
 
 Console.WriteLine("CALCULADORA DE FISICA");
+Console.WriteLine("---------------------");
 bool option = true;
 int n = 0;
 int n_while = 0;

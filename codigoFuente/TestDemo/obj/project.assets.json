@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\lozad\\OneDrive\\Escritorio\\prueba\\TestDemo\\TestDemo.csproj",
+      "projectUniqueName": "c:\\Users\\lozad\\OneDrive\\Escritorio\\Final\\parcial\\codigoFuente\\TestDemo\\TestDemo.csproj",
       "projectName": "TestDemo",
-      "projectPath": "c:\\Users\\lozad\\OneDrive\\Escritorio\\prueba\\TestDemo\\TestDemo.csproj",
+      "projectPath": "c:\\Users\\lozad\\OneDrive\\Escritorio\\Final\\parcial\\codigoFuente\\TestDemo\\TestDemo.csproj",
       "packagesPath": "C:\\Users\\lozad\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\lozad\\OneDrive\\Escritorio\\prueba\\TestDemo\\obj\\",
+      "outputPath": "c:\\Users\\lozad\\OneDrive\\Escritorio\\Final\\parcial\\codigoFuente\\TestDemo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lozad\\AppData\\Roaming\\NuGet\\NuGet.Config"
